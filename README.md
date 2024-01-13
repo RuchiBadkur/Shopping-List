@@ -23,9 +23,9 @@ This is a [Shopping List](https://shopping-listt.netlify.app/) using html,css an
 
 ### Links
 
-- Live Site URL: 
-- Github : [](https://ruchibadkur.github.io/Shopping-List/)
-- Netlify : [](https://shopping-listt.netlify.app/)
+Live Site URL: 
+- Github : [https://ruchibadkur.github.io/Shopping-List/](https://ruchibadkur.github.io/Shopping-List/)
+- Netlify : [https://shopping-listt.netlify.app/](https://shopping-listt.netlify.app/)
 
 ## My process
 
