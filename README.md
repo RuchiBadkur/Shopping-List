@@ -1,6 +1,6 @@
 # Shopping-List
 
-This is a [Shopping List](https://ruchibadkur.github.io/HTML---CSS-Mini-Project---HTML---CSS-Mini-Project---ch2pk4gpm3s7/) using html and css. 
+This is a [Shopping List](https://shopping-listt.netlify.app/) using html,css and javaScript. 
 
 ## Table of contents
 
@@ -23,7 +23,9 @@ This is a [Shopping List](https://ruchibadkur.github.io/HTML---CSS-Mini-Project-
 
 ### Links
 
-- Live Site URL: [](https://ruchibadkur.github.io/HTML---CSS-Mini-Project---HTML---CSS-Mini-Project---ch2pk4gpm3s7/)
+- Live Site URL: 
+- Github : [](https://ruchibadkur.github.io/Shopping-List/)
+- Netlify : [](https://shopping-listt.netlify.app/)
 
 ## My process
 
